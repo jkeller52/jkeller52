@@ -12,7 +12,7 @@ I've recently become interested in developing d-apps for thee Ethereum blockchai
 
 
 
-Check out my personal site for more info.
+Check out my [personal site](jkeller52.github.io) for more info.
 <!---
 https://jkeller52.github.io/
 --->
