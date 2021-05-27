@@ -3,8 +3,8 @@
 - I've recently begun developing skills in Python and C++ to employ work-centered computational modeling and simulation in the analysis and evaluation of human-machine teams.
 -------
 My notable projects on this page include:
-- pigui: An Internet-of-Things automation project using a Raspberry Pi with 3.5" Touchscreen to facilitate command and control of personal devices
-- website: Created Jekyll-based professional website
+- [pigui](https://github.com/jkeller52/pigui): An Internet-of-Things automation project using a Raspberry Pi with 3.5" Touchscreen to facilitate command and control of personal devices. I am in the process of creating documentation for a beginner-friendly tutorial for others. 
+- [website](https://github.com/jkeller52/jkeller52.github.io): Created Jekyll-based professional website
 
 
 
