@@ -9,5 +9,5 @@ My notable projects on this page include:
 - [pigui](https://github.com/jkeller52/pigui): An Internet-of-Things automation project using a Raspberry Pi with 3.5" Touchscreen to facilitate command and control of personal devices. I am in the process of creating documentation for a beginner-friendly tutorial for others. 
 
 
-Check out my [personal site](jkeller52.github.io) for more information about my profile.
+Check out my [personal site](https://jkeller52.github.io) for more information about my profile.
 
