@@ -10,6 +10,4 @@ My notable projects on this page include:
 
 
 Check out my [personal site](jkeller52.github.io) for more information about my profile.
-<!---
-https://jkeller52.github.io/
---->
+
