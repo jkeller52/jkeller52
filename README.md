@@ -5,7 +5,7 @@
 
 -------
 My notable projects on this page include:
-- [CSEL Astrobee](https://github.com/jkeller52/astrobee): An installation and configuration guide for NASA's Astrobee simulation using ROS and Gazebo. This initial effort will be folded into the development of an experimental testbed using the Astrobee platform to study human-robot interaction in the Cognitive Systems Engineering Laboratory at Ohio State University (note: no current official affiliation with NASA).
+- [CSEL Astrobee](https://github.com/jkeller52/astrobee): An installation and configuration guide for NASA's Astrobee simulation platform using ROS and Gazebo. This initial effort will be folded into the development of an experimental testbed using the Astrobee platform to study human-robot interaction in the Cognitive Systems Engineering Laboratory at Ohio State University (note: no current official affiliation with NASA).
 - [pigui](https://github.com/jkeller52/pigui): An Internet-of-Things automation project using a Raspberry Pi with 3.5" Touchscreen to facilitate command and control of personal devices. I am in the process of creating documentation for a beginner-friendly tutorial for others. 
 
 
