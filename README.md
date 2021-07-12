@@ -1,5 +1,5 @@
 👋 Hi, I’m @jkeller52
-- I'm a MS Candidate and Graduate Research Associate in the Department of Integrated Systems Engineering at Ohio State University. My research interests are centered around designing better human-robot systems in complex environments like space operations, disaster response, and air traffic management. 
+- I'm a MS Candidate and Graduate Research Associate in the Department of Integrated Systems Engineering at Ohio State University. My research interests are centered around improving human-robot systems in complex environments like space operations, disaster response, and air traffic management. 
 - In the last eight months, I've begun developing skills in Python and C++ to support my research in work-centered computational modeling and simulation of human-machine teams.
 - Aside from my research, I'm interested in Internet of Things (IoT) projects, and also recently have become interested in blockchain technology, specifically in the development of decentralized apps for Ethereum using Python. I will be uploading projects in this realm soon.
 
