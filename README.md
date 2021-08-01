@@ -1,7 +1,13 @@
-👋 Hi, I’m Jacob
-- I'm a MS Candidate and Graduate Research Associate in the Department of Integrated Systems Engineering at Ohio State University. My research interests are centered around improving human-robot systems in complex environments like space operations, disaster response, and air traffic management. 
+### 👋 Hi there, I'm Jacob!
 
-- 
+
+## I'm a MS Candidate and Graduate Researcher at Ohio State University.
+
+
+- 🌱 I’m currently learning everything 🤣 I am specifically developing skills in Python and C++ to support my research in work-centered computational modeling and simulation of human-machine teams.
+- 🔬 My research interests are centered around improving human-robot systems in complex environments like space operations, disaster response, and air traffic management. 
+- ⚡ Fun fact: I love playing saxphone, playing video games, and taking astrophotography shots of the night sky
+
 
 -------
 My notable projects on this page include:
@@ -9,28 +15,11 @@ My notable projects on this page include:
 - [pigui](https://github.com/jkeller52/pigui): An Internet-of-Things automation project using a Raspberry Pi with 3.5" Touchscreen to facilitate command and control of personal devices. I am in the process of creating documentation for a beginner-friendly tutorial for others. 
 
 
-Check out my [ for more information about my profile.
-
-
-
-
-### Hi there, I'm Jacob!
-
-
-## I'm a MS Candidate and Graduate Researcher at Ohio State University.
-
-
-- 🌱 I’m currently learning everything 🤣 - I am specifically developing skills in Python and C++ to support my research in work-centered computational modeling and simulation of human-machine teams.
-- ⚡ Fun fact: I love to play saxphone, play video games, and take astrophotography shots of the night sky
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Jacob Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jacob Keller | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
