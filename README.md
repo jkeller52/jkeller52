@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Jacob!
+### 👋 Hi there, I'm Jacob
 
 
 ### I'm a MS Candidate and Graduate Researcher at Ohio State University.
